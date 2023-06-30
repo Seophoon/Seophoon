@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Seophoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seophoon)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seophoon&layout=compact)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytlsgnstjq)](https://solved.ac/ytlsgnstjq)
+ ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ytlsgnstjq&theme=warm)
